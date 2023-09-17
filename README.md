@@ -9,4 +9,6 @@ This repository contains the following:
 When they are completed, the following items will be added to the repository:
 1.  A final paper
 
+Update (09/17/2023): Paper currently being written and expected to be finished in December 2023
+
 I may also add my notes from the project.
